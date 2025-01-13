@@ -1,7 +1,7 @@
 {
-  "name": "REPLACE_ME",
-  "private": true,
-  "version": "0.0.0",
+  "name": "saras-icons-library",
+  "private": false,
+  "version": "0.0.3",
   "type": "module",
   "scripts": {
     "dev": "npm run transform-icons && vite",
